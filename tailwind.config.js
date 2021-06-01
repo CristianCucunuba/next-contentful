@@ -3,10 +3,13 @@ module.exports = {
   purge: ['./src/pages/**/*.tsx', './src/components/**/*.tsx'],
   darkMode: false,
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        heading: ["Sacramento", "sans-serif"],
+      }
+    },
   },
   variants: {
-    extend: {},
   },
   plugins: [],
 }

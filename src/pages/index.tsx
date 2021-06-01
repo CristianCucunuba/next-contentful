@@ -22,7 +22,7 @@ export default function Home() {
 
   return (
     <div className="border border-red-500">
-      <h1>Grandma's All-Time Best Recipes</h1>
+      <h1 className="text-8xl font-heading">Grandma's All-Time Best Recipes</h1>
       <p>
         Grandma's cooking has stood the test of time with these treasured
         recipes.
