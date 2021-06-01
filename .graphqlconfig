@@ -1,0 +1,4 @@
+{
+  "name": "CMS Contenful API",
+  "schemaPath": "src/generated/graphql.schema.json"
+}
